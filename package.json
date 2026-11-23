@@ -1,0 +1,25 @@
+{
+  "name": "perhitungan-nilai-otomatis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichaniaa/Perhitungan-Nilai-Otomatis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ichaniaa/Perhitungan-Nilai-Otomatis/issues"
+  },
+  "homepage": "https://github.com/ichaniaa/Perhitungan-Nilai-Otomatis#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}
