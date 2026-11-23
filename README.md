@@ -7,9 +7,9 @@ Aplikasi Perhitungan Nilai Ujian Otomatis merupakan aplikasi berbasis Console Ty
 
 | No. | Nama Anggota | NIM | Tugas dan Kontribusi |
 |---|---|---|---|
-| 1. | Icha Rahmania Putri | NIM 1 | Setup repository, membuat struktur program, menu utama, fitur input data siswa (Create), dan validasi input. |
-| 2. | Nama Anggota 2 | NIM 2 | Membuat fitur perhitungan nilai rata-rata, menentukan status lulus atau remedial, dan predikat penghargaan. |
-| 3. | Nama Anggota 3 | NIM 3 | Membuat fitur menampilkan data siswa, pengujian program, perbaikan kesalahan, dan dokumentasi README. |
+| 1. | Icha Rahmania Putri | 263140701111069 | Setup repository, membuat struktur program, menu utama, fitur input data siswa (Create), dan validasi input. |
+| 2. | Dwie arga Ramadiksa Bumi | 263140701111073 | Membuat fitur perhitungan nilai rata-rata, menentukan status lulus atau remedial, dan predikat penghargaan. |
+| 3. | Fahrani Fezya Setiawan | 263140701111002 | Membuat fitur menampilkan data siswa, pengujian program, perbaikan kesalahan, dan dokumentasi README. |
 
 ## Teknologi yang Digunakan
 * TypeScript
